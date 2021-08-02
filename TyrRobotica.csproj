@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\BGColor.PNG" />
+    <None Include="wwwroot\InkedPromotionalBanner_WhitebgFull_LI.jpg" />
+    <None Include="wwwroot\PromoBannerCropped.png" />
+    <None Include="wwwroot\LogoTyr.png" />
+    <None Include="wwwroot\PromotionalBanner_WhitebgFull.png" />
+    <None Include="wwwroot\TyrLogo.png" />
+  </ItemGroup>
+
+</Project>
